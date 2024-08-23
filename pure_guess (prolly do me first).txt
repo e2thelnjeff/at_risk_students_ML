@@ -1,0 +1,25 @@
+Thanks for participating in my little game.  This is 'Pure Guess.'  The idea is to exercise your intuition and attempt to answer the following prompts.  Feel free to provide more than one answer, or even to justify them.  It's worth a lot more than 2 cents to me.  I hope you have fun!
+
+Prompts:
+
+1. I'm a career-changer.  What sector has most of my work experience been in?
+2. I clearly went back to school and study computer science.  But what other subject did I study in some depth? 
+3. I also have a job, which I do approx. 30 hrs/week.  What do I do now?
+4. How old am I?
+5. I'm not currently studying what I originally studied when I got my undergrad.  What did I major in?
+6. Where did I originally graduate college?
+7. Whereabouts in the country am I from (hint: I still live there).
+8. Did I play sports in school?  Was I in clubs?  Which ones?  Did I like school?
+9. What's my astrological sign?
+10. Where would you see me fitting into a company like yours with:
+	a. no training?
+	b. some training?
+	c. much training?
+11. Do I have a cat?
+12. Am I married?
+13. Kids?
+14. Am I an only, youngest, middle, or eldest child?
+
+Please email your responses to e2thelnjeff@gmail.com or upload them to my GitHub.
+
+Thanks again!!!

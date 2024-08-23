@@ -1,0 +1,68 @@
+This is 'Multiple Guess.'  I bet you've seen this before.  Feel free to rank your choices if you like.  Answer key is in my linkedIn profile.  Explanations provided upon request :-)
+
+Prompts:
+
+1. I'm a career-changer.  What sector has most of my work experience been in?
+	a. counseling
+	b. media
+	c. finance
+	d. the arts
+
+2. I clearly went back to school and currently study computer science.  But what other subject did I study in some depth recently? 
+	a. English
+	b. Mathematics
+	c. Psychology
+	d. History
+
+3. I also have a job, which I do approx. 30 hrs/week.  What do I do now?
+	a. counselor for at-risk youth
+	b. marketing for a numismatics business
+	c. math tutor
+	d. videographer
+
+4. How old am I?
+	a. insult me
+	b. flatter me
+	c. be honest
+	d. keep it to yourself
+	e. just fill in the blank _______
+
+5. I'm not currently studying what I originally studied when I got my undergrad.  What did I major in?
+	a. Philosophy, with a minor in Accounting
+	b. History & Literature
+	c. Creative Writing
+	d. Psychology
+
+6. Where did I originally graduate college?
+	a. Fresno St.
+	b. Oberlin
+	c. Harvard
+	d. Bucknell
+
+7. Whereabouts in the country am I from (hint: I still live there).
+	a. Edwards, CO
+	b. Chicago, IL
+	c. Pittsburgh, PA
+	d. Geary county, KS
+
+8. Did I play sports in school?  Was I in clubs?  Which ones?  Did I like school?
+	<guidance>: If I was in clubs, I wasn't very active in them.  I was a nerdy jock.  Which 3 of these sports did I play?
+
+	[hockey, wrestling, football, basketball, diving, rifle team, track, baseball, swimming, lacrosse, soccer]
+	
+9. What's my astrological sign?
+	a. Aries
+	b. Cancer
+	c. Libra
+	d. Leo
+
+10. Where would you see me fitting into a company like yours with:
+	a. no training?
+	b. some training?
+	c. much training?
+
+11. Do I have a cat?
+
+Please email your responses to e2thelnjeff@gmail.com or upload them to my GitHub.
+
+Thanks again!!!
